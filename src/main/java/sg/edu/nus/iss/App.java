@@ -6,13 +6,18 @@ public final class App {
         // ArraySortExample arr = new ArraySortExample();
         // arr.example2();
 
-        // CollectionSortExample coll = new CollectionSortExample();
-        // coll.example2();
+        CollectionSortExample coll = new CollectionSortExample();
+        coll.example2();
 
         // HashMapExample hash = new HashMapExample();
         // hash.example();
         
-        ConcurrentHashMapExample conHash = new ConcurrentHashMapExample();
-        conHash.example();
+        // ConcurrentHashMapExample conHash = new ConcurrentHashMapExample();
+        // conHash.example();
+
+        // LinkedListExample lle = new LinkedListExample();
+        // lle.example();
+
+        
     }
 }
