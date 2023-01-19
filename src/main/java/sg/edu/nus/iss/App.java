@@ -9,8 +9,10 @@ public final class App {
         // CollectionSortExample coll = new CollectionSortExample();
         // coll.example2();
 
-        HashMapExample hash = new HashMapExample();
-        hash.example();
-
+        // HashMapExample hash = new HashMapExample();
+        // hash.example();
+        
+        ConcurrentHashMapExample conHash = new ConcurrentHashMapExample();
+        conHash.example();
     }
 }
