@@ -6,8 +6,8 @@ public final class App {
         // ArraySortExample arr = new ArraySortExample();
         // arr.example2();
 
-        CollectionSortExample coll = new CollectionSortExample();
-        coll.example2();
+        // CollectionSortExample coll = new CollectionSortExample();
+        // coll.example2();
 
         // HashMapExample hash = new HashMapExample();
         // hash.example();
@@ -18,6 +18,7 @@ public final class App {
         // LinkedListExample lle = new LinkedListExample();
         // lle.example();
 
-        
+        StackExample se = new StackExample();
+        se.example();
     }
 }
